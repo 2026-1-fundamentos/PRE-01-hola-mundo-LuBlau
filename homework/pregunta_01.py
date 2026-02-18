@@ -11,7 +11,6 @@ def pregunta_01():
 
     Rta/
     Hola mundo cruel!
-
     """
 
     return "Hola mundo cruel!"
